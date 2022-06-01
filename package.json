@@ -7,9 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "cypress": "^9.7.0"
-  }
+  "author": "Michele Farias",
+  "license": "ISC"
 }
